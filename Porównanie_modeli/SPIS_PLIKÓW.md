@@ -1,0 +1,4 @@
+- **Kod1.py** - Pobiera posty z serwisu Reddit, przypisuje sentyment modelami VADER oraz BERT, generuje plik Dane 1 w formacie csv. 
+- **Kod2.py** - Porównuje czas wykonywania i nastrój sześciu modeli analizy sentymentu, generuje plik Dane 2 w formacie csv. 
+- **Kod3.py** - Generuje macierz pomyłek lub wykresy Rys 1 dla dostrojonego modelu analizy sentymentu VADER. 
+- **Kod4.py** - Generuje macierz pomyłek dla zbioru danych Sentiment140 dla dostrojonego modelu analizy sentymentu VADER.
